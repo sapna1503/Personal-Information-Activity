@@ -1,0 +1,34 @@
+Enter name, age, email, phone10/10                   
+
+
+Correct keyboard,  does not hide text field5/5     
+
+
+Saving data permanently and retrieving the data25/25
+                                                                                                     
+        
+Major selection uses fragments25/25
+
+
+Major selection works properly,
+User can select major, cancel selection20/20
+
+
+
+Going back to personal activity does not create a new activity5/5
+
+
+Degree types and majors not hard coded 2/5
+
+-3 if (advDegree.equals(getString(R.string.DoctorofPhilosophy), ignoreCase = true)) {
+            arrVal = R.array.DrOfPhilosophy
+        } else if (advDegree.equals(getString(R.string.DoctorofEducation), ignoreCase = true)) {
+            arrVal = R.array.DrOfEducation
+        } else if (advDegree.equals(getString(R.string.MasterofArts), ignoreCase = true)) {
+
+
+Look of the app. 5/5
+
+
+
+Total 	97/100
